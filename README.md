@@ -11,8 +11,9 @@ Aplikasi SpaceFlight News adalah platform digital yang menyediakan berita dan in
 - Profie : Untuk logout dari aplikasi
 
 # Fitur-fitur:
-1. Home, Menampilkan  berita atau artikel tentang penerbangan luar angkasa
-2. Fitur register dan login/logout
+-Register dan login
+-Home, Menampilkan  berita atau artikel tentang penerbangan luar angkasa
+-Profile untuk logout
 
 # Teknologi
 - SQLite : Digunakan untuk menyimpan data pengguna dan informasi terkait aplikasi lainnya
