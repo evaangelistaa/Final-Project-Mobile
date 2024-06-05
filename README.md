@@ -1,8 +1,24 @@
-Tugas Praktikum Final Mobile
+# Tugas Praktikum Final Mobile
 
+# Deskripsi Aplikasi
 SpcaceFlight News
-Aplikasi SpcaceFlight News adalah platform digital yang menyediakan berita dan informasi tentang penerbangan luar angkasa, didalam aplikasi ini kita bisa melihat berita tentang penerbagan luar angkasa seperti peluncuran roket, booster Upgrade, penyelesaian uji penerbangan kapal luar angkasa dan lain-lain.
+Aplikasi SpaceFlight News adalah platform digital yang menyediakan berita dan informasi tentang penerbangan luar angkasa. Dalam aplikasi ini, kita dapat melihat berita tentang penerbangan luar angkasa seperti peluncuran roket, booster upgrade, penyelesaian uji penerbangan kapal luar angkasa, dan lain-lain.
 
-Fitur-fitur:
+# Cara Penggunaan
+- Registrasi : Buat akun baru dengan mengisi nama dan password
+- Login : Masuk ke akun yang telah dibuat dengan mengisi nama dan password
+- Home : Bagian dari Newsspace yang menampilkan tentang berita dan informasi penerbangan luar angkasa
+- Profie : Untuk logout dari aplikasi
+
+# Fitur-fitur:
 1. Home, Menampilkan  berita atau artikel tentang penerbangan luar angkasa
 2. Fitur register dan login/logout
+
+# Teknologi
+- SQLite : Digunakan untuk menyimpan data pengguna dan informasi terkait aplikasi lainnya
+- Retrofit : Untuk pengambilan aplikasi
+- Android Studio : Untuk pengembangan aplikasi
+- Lottie : Untuk progressbar dan logo
+
+# API
+SpaceFlight API (https://api.spaceflightnewsapi.net/v3/articles).
